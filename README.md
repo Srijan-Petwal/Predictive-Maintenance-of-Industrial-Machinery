@@ -30,7 +30,7 @@ Develop a predictive maintenance model for a fleet of industrial machines to ant
 
 | Component         | Specification                     |
 |------------------|-------------------------------------|
-| Cloud Platform   | IBM Watsonx.ai (Lite Plan)         |
+| Cloud Platform   | IBM Watsonx.ai        |
 | Storage          | IBM Cloud Object Storage (COS)     |
 | Environment      | Python 3.11 (Jupyter Runtime)      |
 | Notebook Tools   | Pandas, Scikit-learn, Matplotlib   |
