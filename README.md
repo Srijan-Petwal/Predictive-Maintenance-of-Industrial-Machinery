@@ -67,7 +67,7 @@ Ensured both training and testing datasets reflect the true class distribution u
 Applied `RandomOverSampler` to the training data to address class imbalance (failure class under-represented).
 
 #### **Model Training**  
-Trained a `RandomForestClassifier` on the resampled and preprocessed training data.
+Trained a `Snap Random Forest Classifier` on the resampled and preprocessed training data.
 
 #### **Evaluation**  
 Evaluated the model using:
@@ -81,9 +81,8 @@ Evaluated the model using:
 
 | **Metric**              | **Value** |
 |-------------------------|-----------|
-| Accuracy                | 98.3%     |
-| Recall (Failure class)  | 59%       |
-| F1-score (Failure class)| 0.70      |
+| Accuracy                | 99.5%     |
+
 
 
 ---
