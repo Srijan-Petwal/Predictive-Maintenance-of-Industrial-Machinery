@@ -2,8 +2,13 @@
 
 This project addresses **Problem Statement 39**: Predictive Maintenance of Industrial Machinery. The goal is to develop a model that predicts machinery failures in advance using sensor data, helping reduce downtime and maintenance costs.
 
+---
+# 🛠️ Outcome
+
+![Outcome Placeholder](Outcome.png) <!-- Replace with your actual image path -->
 
 ---
+
 
 ## 🔍 Problem Statement
 
