@@ -104,12 +104,4 @@ Evaluated the model using:
 
 ---
 
-## 📁 Project Structure
-
-```bash
-📦 Predictive_Maintenance
-├── 📓 notebook.ipynb         # Main notebook in Watsonx.ai
-├── 📊 visualizations/        # Screenshots and charts
-├── 📁 data/                  # Source CSV from IBM COS
-├── 📄 README.md              # Project documentation
 
